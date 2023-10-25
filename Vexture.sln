@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{AF99E36D-8A3C-48D9-92AA-2D1A3C46028D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vexture", "Vexture\Vexture.vcxproj", "{C1989AB9-2D05-45AE-91BC-1C74CF6B0FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1989AB9-2D05-45AE-91BC-1C74CF6B0FAA}.Debug|x64.ActiveCfg = Debug|x64
+		{C1989AB9-2D05-45AE-91BC-1C74CF6B0FAA}.Debug|x64.Build.0 = Debug|x64
+		{C1989AB9-2D05-45AE-91BC-1C74CF6B0FAA}.Release|x64.ActiveCfg = Release|x64
+		{C1989AB9-2D05-45AE-91BC-1C74CF6B0FAA}.Release|x64.Build.0 = Release|x64
+		{AF99E36D-8A3C-48D9-92AA-2D1A3C46028D}.Debug|x64.ActiveCfg = Debug|x64
+		{AF99E36D-8A3C-48D9-92AA-2D1A3C46028D}.Debug|x64.Build.0 = Debug|x64
+		{AF99E36D-8A3C-48D9-92AA-2D1A3C46028D}.Release|x64.ActiveCfg = Release|x64
+		{AF99E36D-8A3C-48D9-92AA-2D1A3C46028D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897C364B-D36F-4B39-8C03-C5A619B1B0BD}
+	EndGlobalSection
+EndGlobal
